@@ -1,7 +1,5 @@
-Let's just say, you won't get any good from modding or forking this project.
-These are worthless and they only contain game images for 2018, and Gifts.json which is also pretty worthless.
+License
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
-Just saying this so you can avoid wasting your time :)
-
-
-Our main storage is on a website that we host, you can attempt to find it but it's very unlikely.
+Self Hosting
+Self hosting is not supported and no help will be provided. I am not responsible or liable for any self hosted clones of RecBoomer Launcher V2.
